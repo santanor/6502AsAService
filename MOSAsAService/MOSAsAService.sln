@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{B241EEE1-1DF3-4FBD-9CF2-5AEB5A3108F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emulator", "Emulator\Emulator.csproj", "{9D338E08-ECB2-4624-9A53-2E25800D0B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B241EEE1-1DF3-4FBD-9CF2-5AEB5A3108F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B241EEE1-1DF3-4FBD-9CF2-5AEB5A3108F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B241EEE1-1DF3-4FBD-9CF2-5AEB5A3108F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B241EEE1-1DF3-4FBD-9CF2-5AEB5A3108F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D338E08-ECB2-4624-9A53-2E25800D0B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D338E08-ECB2-4624-9A53-2E25800D0B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D338E08-ECB2-4624-9A53-2E25800D0B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D338E08-ECB2-4624-9A53-2E25800D0B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
